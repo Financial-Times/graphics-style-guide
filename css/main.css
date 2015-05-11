@@ -1,51 +1,56 @@
+body{
+  font-family:sans-serif;
+  background:#fff9f1;
+}
+
+
+
 sup{
-        vertical-align: top;
-        font-size: 0.8rem;
-      }
+  vertical-align: top;
+  font-size: 0.8rem;
+}
 
-      body{
-        font-family:sans-serif;
-      }
-      .column{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        max-width:800px;
-      }
-      img{
-        width:100%;
-        padding-top:1rem;
-        padding-bottom:1rem;
-      }
-      .note img{
-        display:block;
-        width:30%;
-      }
-      h2{
-        font-size:1.3rem;
-      }
+.column{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:800px;
+}
+img{
+  width:100%;
+  padding-top:1rem;
+  padding-bottom:1rem;
+}
+.note img{
+  display:block;
+  width:30%;
+}
+h2{
+  font-size:1.3rem;
+}
 
-      blockquote{
-        font-family:serif;
-      }
-      .date{
-        border-top:1px solid #999;
-        color:#999;
-        padding-bottom:10px;
-        padding-top:10px;
-      }
+blockquote{
+  font-family:serif;
+}
+.date{
+  border-top:1px solid #999;
+  color:#999;
+  padding-bottom:10px;
+  padding-top:10px;
+}
 
-      .content{
-        max-width:600px;
-        line-height:1.5rem;
-        font-size:1.1rem;
-      }
+.content{
+  max-width:600px;
+  line-height:1.5rem;
+  font-size:1.1rem;
+}
 
-      .note{
-        max-width:600px;
-        font-size:0.8rem;
-        line-height:1.2rem;
-      }
-      [href^="#"]{
-        vertical-align: top;
-        font-size: 0.6rem;
+.note{
+  max-width:600px;
+  font-size:0.8rem;
+  line-height:1.2rem;
+}
+[href^="#"]{
+  vertical-align: top;
+  font-size: 0.6rem;
+}
